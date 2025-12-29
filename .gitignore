@@ -2,3 +2,4 @@
 .idea
 __pycache__
 svhn_data
+faces_data
